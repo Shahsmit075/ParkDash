@@ -17,11 +17,11 @@ Implementing intelligent and real-time governance for Indian street parking in r
       <li>
       <a href="#understanding-the-architecture-">Understanding the Architecture</a>
     </li>
-    <li><a href="##ideaapproach-details-">Idea/Approach Details</a></li>
+    <li><a href="#ideaapproach-details-">Idea/Approach Details</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#show-stoppers">Show Stoppers</a></li>
     <li><a href="#future-aspects">Future Aspects</a></li>
-    <li><a href="#contact">Contributors</a></li>
+    <li><a href="#contributors">Contributors</a></li>
   </ol>
 </details>
 
