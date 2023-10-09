@@ -109,7 +109,9 @@ Introducing an Admin-User Review System to ensure accountability from both sides
  **[3] Sensor Technology and QR Code Payment Integration:** We employ sensor technology at entry and exit points to streamline parking. As vehicles enter and exit, sensors detect their presence, automatically recording entries and exits. Also, we’ve integrated QR code support for swift payments. Users receive a QR code upon exit, which they can easily scan with their smartphones for instant payment processing.<br>
 
 ## Future Aspects 
-
+**[1]** EV charging infrastructure integrated into parking facilities to support the growing trend of electric vehicles.<br>
+**[2]** Integration with IoT (Internet of Things) technology to create a network of connected sensors and devices that can monitor and manage parking spaces in real-time.<br>
+**[3]** Enhanced security measures, including surveillance and emergency response systems.<br>
 
 
 
@@ -118,9 +120,9 @@ Introducing an Admin-User Review System to ensure accountability from both sides
 
 - [@Shahsmit075](https://github.com/Shahsmit075) - shahsmit075@gmail.com <br>
 - [@Sudhanshu-Bharti](https://github.com/Sudhanshu-Bharti) - shhubham01legend@gmail.com <br>
-- [@sohamhaldar](https://github.com/sohamhaldar) - sohamhaldar25@gmail.com <br>
 - [@Om136](https://github.com/Om136) - omvpatel173@gmail.com <br>
 - [@ishanRaj03](https://github.com/IshanRaj03) - ishanraj1908@gmail.com <br>
+- [@sohamhaldar](https://github.com/sohamhaldar) - sohamhaldar25@gmail.com <br>
 - [@Neetu03](https://github.com/Neetu03) - neetuchoudhary03022004@gmail.com <br>
 
 Project Status : Ongoing <br>
